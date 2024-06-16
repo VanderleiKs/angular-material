@@ -1,0 +1,28 @@
+
+@use '@angular/material' as mat;
+@use './m3-theme';
+
+@include mat.core();
+
+
+html, body { height: 100%;}
+button{border-radius: 0 !important;}
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+/*   :root {
+    //@include mat.core-theme(m3-theme.$dark-theme);
+    @include mat.all-component-themes(m3-theme.$dark-theme);
+  } */
+  // Estilos para o tema claro
+.light-theme {
+  @include mat.all-component-themes(m3-theme.$light-theme);
+}
+
+// Estilos para o tema escuro
+.dark-theme {
+  @include mat.all-component-themes(m3-theme.$dark-theme);
+}
+/* 
+ html{
+  @include mat.core-theme(m3-theme.$dark-theme);
+  @include mat.button-theme(m3-theme.$dark-theme)
+ } */
