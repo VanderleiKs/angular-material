@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T12:41:49.583Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="9W25S4l8fBiY7jGWeKXP" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T17:13:37.776Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oEY8E61d1gw2zhElNzG5" version="24.6.2" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1254" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -48,13 +48,19 @@
           <mxGeometry x="60" y="790" width="330" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8v6UHw1AJdGYL349Nlzp-11" value="Cancelamentos" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="500" y="790" width="130" height="75" as="geometry" />
+          <mxGeometry x="480" y="790" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8v6UHw1AJdGYL349Nlzp-12" value="Checkin/checkout" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="500" y="935" width="130" height="75" as="geometry" />
+          <mxGeometry x="480" y="880" width="130" height="75" as="geometry" />
         </mxCell>
         <mxCell id="8v6UHw1AJdGYL349Nlzp-15" value="Gestor Hoteis" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;strokeWidth=1;fontStyle=1;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8v6UHw1AJdGYL349Nlzp-17" value="nota fiscal" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="480" y="970" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8v6UHw1AJdGYL349Nlzp-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.606;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8v6UHw1AJdGYL349Nlzp-9" target="8v6UHw1AJdGYL349Nlzp-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
