@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-24T12:38:35.907Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="oFUtRbr4TFxSzSTae7kN" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-24T12:40:30.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="2a9m6S6VLr200fks71V9" version="24.6.2" type="github">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1254" dy="638" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -35,6 +35,23 @@
         </mxCell>
         <mxCell id="8v6UHw1AJdGYL349Nlzp-8" value="Booking" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="500" y="520" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8v6UHw1AJdGYL349Nlzp-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="8v6UHw1AJdGYL349Nlzp-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8v6UHw1AJdGYL349Nlzp-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8v6UHw1AJdGYL349Nlzp-9" target="8v6UHw1AJdGYL349Nlzp-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8v6UHw1AJdGYL349Nlzp-9" value="Gestão de Reservas" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="60" y="790" width="330" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="8v6UHw1AJdGYL349Nlzp-11" value="Cancelamentos" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="790" width="130" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="8v6UHw1AJdGYL349Nlzp-12" value="Checkin/checkout" style="html=1;dashed=0;whiteSpace=wrap;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="500" y="935" width="130" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
